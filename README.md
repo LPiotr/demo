@@ -6,4 +6,4 @@ TEST TEST
 
 AAAAAAAAAAAAA
 
-duża zmiana na masterze
+This bound going to trouble
