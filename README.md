@@ -6,4 +6,4 @@ TEST TEST
 
 AAAAAAAAAAAAA
 
-This bound going to trouble
+MODYFIKACJA STASHOWANIE
